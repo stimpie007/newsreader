@@ -1,1 +1,1 @@
-let newssite = document.getElementById('newssite').src = document.getElementById("newsinput").value;;
+let newssite = document.getElementById('newssite').src = document.getElementById("newsinput").value;
